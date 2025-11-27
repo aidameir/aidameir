@@ -184,7 +184,7 @@ Small utilities for documentation automation, data cleaning
 ---
 
 ## 🤝 **Connect with Me**
-📧 Email: **aidameir5@gmail.com**  
+📧 Email: **aidameir3@gmail.com**  
 🔗 LinkedIn: **[Aida Meirbekova](https://www.linkedin.com/in/aida-meirbekova-21649340/)**  
 📍 Houston, Texas  
 
